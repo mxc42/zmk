@@ -9,6 +9,7 @@
 #include <dt-bindings/zmk/bt.h>
 #include "ansi_italian_remapping.h"
 
+
 #define DEFAULT 0
 #define SFT     1
 #define NUM     2
